@@ -1,4 +1,0 @@
-<main>
-    <h1>About Page</h1>
-    <a href="#/">go home</a>
-</main>

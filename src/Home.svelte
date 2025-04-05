@@ -1,7 +1,0 @@
-<main>
-    <h1>Home Page</h1>
-    <p>Currently monitoring X,XXX returns</p>
-    <a href="#/signup">sign up for service</a>
-    <br>
-    <a href="#/about">go to about</a>
-</main>

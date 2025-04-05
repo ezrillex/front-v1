@@ -1,0 +1,1 @@
+<h1>Te hemos enviado un correo con un enlace para continuar. Te recomendamos abrir el enlace en el dispositivo que deseas continuar el proceso.</h1>
